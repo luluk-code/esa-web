@@ -1,0 +1,752 @@
+[
+  {
+    "id": 200,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #1",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #1 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 201,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #2",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #2 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 202,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #3",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #3 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 203,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #4",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #4 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 204,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #5",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #5 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 205,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #6",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #6 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 206,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #7",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #7 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 207,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #8",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #8 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 208,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #9",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #9 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 209,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #10",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #10 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 210,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #11",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #11 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 211,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #12",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #12 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 212,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #13",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #13 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 213,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #14",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #14 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 214,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #15",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #15 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 215,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #16",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #16 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 216,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #17",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #17 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 217,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #18",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #18 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 218,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #19",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #19 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 219,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #20",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #20 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 220,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #21",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #21 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 221,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #22",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #22 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 222,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #23",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #23 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 223,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #24",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #24 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 224,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #25",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #25 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 225,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #26",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #26 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 226,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #27",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #27 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 227,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #28",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #28 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 228,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #29",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #29 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 229,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #30",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #30 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 230,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #31",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #31 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 231,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #32",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #32 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 232,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #33",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #33 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 233,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #34",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #34 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 234,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #35",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #35 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 235,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #36",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #36 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 236,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #37",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #37 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 237,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #38",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #38 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 238,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #39",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #39 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 239,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #40",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #40 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 240,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #41",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #41 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 241,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #42",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #42 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 242,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #43",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #43 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 243,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #44",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #44 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 244,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #45",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #45 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 245,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #46",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #46 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 246,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #47",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #47 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 247,
+    "mapel": "bahasa_indonesia",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Bahasa Indonesia #48",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #48 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 248,
+    "mapel": "bahasa_indonesia",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Bahasa Indonesia #49",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #49 untuk mapel bahasa_indonesia."
+  },
+  {
+    "id": 249,
+    "mapel": "bahasa_indonesia",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Bahasa Indonesia #50",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #50 untuk mapel bahasa_indonesia."
+  }
+]

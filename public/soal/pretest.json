@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Tujuan utama dari teks deskripsi adalah...",
+    "opsi": {
+      "A": "Menjelaskan cara membuat sesuatu",
+      "B": "Menggambarkan objek secara jelas dan rinci",
+      "C": "Mempengaruhi pembaca agar setuju",
+      "D": "Menjelaskan proses terjadinya sesuatu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Teks deskripsi bertujuan untuk menggambarkan objek secara detail agar pembaca dapat membayangkannya."
+  },
+  {
+    "id": 2,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Ciri khas cerita fantasi adalah...",
+    "opsi": {
+      "A": "Berdasarkan kejadian nyata",
+      "B": "Menggunakan data dan fakta",
+      "C": "Mengandung unsur magis atau imajinatif",
+      "D": "Menggunakan bahasa ilmiah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Cerita fantasi memiliki unsur imajinasi tinggi dan sering kali memasukkan unsur magis."
+  },
+  {
+    "id": 3,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Kalimat berikut yang termasuk kalimat perintah dalam teks prosedur adalah...",
+    "opsi": {
+      "A": "Kita bisa menambahkan garam jika suka",
+      "B": "Tambahkan satu sendok teh garam",
+      "C": "Garam akan larut dengan sendirinya",
+      "D": "Garam dapat membuat rasa lebih enak"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kalimat perintah dalam teks prosedur biasanya menggunakan kata kerja imperatif seperti 'tambahkan'."
+  },
+  {
+    "id": 4,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Salah satu ciri bahasa dalam teks laporan hasil observasi adalah...",
+    "opsi": {
+      "A": "Menggunakan kata-kata emotif",
+      "B": "Menggunakan konjungsi temporal",
+      "C": "Menggunakan kalimat ajakan",
+      "D": "Menggunakan istilah ilmiah"
+    },
+    "jawaban": "D",
+    "pembahasan": "Teks laporan hasil observasi menggunakan istilah ilmiah dan bahasa yang objektif."
+  },
+  {
+    "id": 5,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Ciri khas pantun adalah...",
+    "opsi": {
+      "A": "Berisi dialog antar tokoh",
+      "B": "Terdiri dari 4 baris dengan rima ab-ab",
+      "C": "Memuat data hasil pengamatan",
+      "D": "Menggunakan kalimat perintah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pantun memiliki ciri khas berupa empat baris bersajak ab-ab."
+  },
+  {
+    "id": 6,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Andi menulis surat kepada temannya untuk menceritakan pengalaman liburan. Surat yang ditulis Andi termasuk jenis surat...",
+    "opsi": {
+      "A": "Surat dinas",
+      "B": "Surat pribadi",
+      "C": "Surat pengantar",
+      "D": "Surat edaran"
+    },
+    "jawaban": "B",
+    "pembahasan": "Surat yang ditulis kepada teman dan berisi pengalaman pribadi termasuk surat pribadi."
+  },
+  {
+    "id": 7,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah teks berikut!\n\"Pagi ini hujan turun sangat deras. Jalanan menjadi licin dan becek. Orang-orang berlalu-lalang dengan jas hujan dan payung.\"\nTeks di atas merupakan bagian dari...",
+    "opsi": {
+      "A": "Teks deskripsi",
+      "B": "Teks prosedur",
+      "C": "Teks eksposisi",
+      "D": "Teks narasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Teks tersebut menggambarkan suasana secara detail dan rinci sehingga termasuk teks deskripsi."
+  },
+  {
+    "id": 8,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bagian struktur yang berisi pendapat atau argumen dalam teks eksposisi disebut...",
+    "opsi": {
+      "A": "Pernyataan umum",
+      "B": "Argumentasi",
+      "C": "Penegasan ulang",
+      "D": "Orientasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Argumentasi berisi alasan-alasan atau bukti yang mendukung pendapat dalam teks eksposisi."
+  },
+  {
+    "id": 9,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Teks berikut ini termasuk dalam jenis teks....\n\"Langkah pertama dalam membuat layang-layang adalah menyiapkan bahan seperti bambu, kertas, dan benang. Kemudian potong bambu sesuai ukuran.\"",
+    "opsi": {
+      "A": "Teks narasi",
+      "B": "Teks prosedur",
+      "C": "Teks deskripsi",
+      "D": "Teks eksplanasi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Teks tersebut menjelaskan langkah-langkah secara berurutan yang menunjukkan teks prosedur."
+  },
+  {
+    "id": 10,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini adalah kalimat efektif, kecuali...",
+    "opsi": {
+      "A": "Ia pergi ke sekolah pagi-pagi sekali.",
+      "B": "Kemarin Andi membeli buku di toko.",
+      "C": "Mereka semua pada pergi ke pasar.",
+      "D": "Ibu memasak nasi di dapur."
+    },
+    "jawaban": "C",
+    "pembahasan": "Kalimat tersebut tidak efektif karena menggunakan kata yang tidak baku: 'pada pergi'."
+  },
+  {
+    "id": 11,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Teks berikut mengandung kalimat yang menyampaikan proses alami: \"Pelangi terbentuk akibat pembiasan cahaya matahari oleh butiran air hujan.\" Kalimat tersebut termasuk dalam...",
+    "opsi": {
+      "A": "Teks narasi",
+      "B": "Teks eksplanasi",
+      "C": "Teks deskripsi",
+      "D": "Teks eksposisi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Teks eksplanasi menjelaskan proses terjadinya suatu fenomena alam atau sosial."
+  },
+  {
+    "id": 12,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bagian penutup dalam teks pidato persuasif berisi...",
+    "opsi": {
+      "A": "Ucapan salam pembuka",
+      "B": "Harapan dan ajakan",
+      "C": "Penjelasan isi",
+      "D": "Rincian data"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penutup pidato biasanya berisi harapan, kesimpulan, dan ajakan kepada pendengar."
+  },
+  {
+    "id": 13,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam struktur teks tanggapan, bagian yang menyatakan penilaian umum terhadap suatu hal disebut...",
+    "opsi": {
+      "A": "Evaluasi",
+      "B": "Deskripsi teks",
+      "C": "Rekomendasi",
+      "D": "Orientasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Evaluasi merupakan bagian awal yang memberikan kesan umum atau penilaian awal."
+  },
+  {
+    "id": 14,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Unsur yang membedakan cerita inspiratif dengan teks fabel adalah...",
+    "opsi": {
+      "A": "Tokohnya manusia nyata dan pesan moral kuat",
+      "B": "Mengandung imajinasi dan tokoh hewan",
+      "C": "Berisi langkah-langkah kerja",
+      "D": "Berisi data dan fakta ilmiah"
+    },
+    "jawaban": "A",
+    "pembahasan": "Cerita inspiratif menggunakan tokoh manusia dan bertujuan memberikan motivasi."
+  },
+  {
+    "id": 15,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Berikut ini yang bukan termasuk unsur kebahasaan dalam teks eksposisi adalah...",
+    "opsi": {
+      "A": "Istilah ilmiah",
+      "B": "Kalimat ajakan",
+      "C": "Kata hubung argumentatif",
+      "D": "Kalimat fakta"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kalimat ajakan lebih banyak ditemukan dalam teks persuasi, bukan eksposisi."
+  },
+  {
+    "id": 16,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah paragraf berikut!\n\"Setiap pagi, Rani selalu menyiram tanaman bunga di halaman rumahnya. Ia menyukai aroma tanah yang basah dan warna-warni bunga mawar yang mulai bermekaran.\"\nTeks di atas termasuk jenis teks...",
+    "opsi": {
+      "A": "Teks eksplanasi",
+      "B": "Teks prosedur",
+      "C": "Teks narasi",
+      "D": "Teks deskripsi"
+    },
+    "jawaban": "D",
+    "pembahasan": "Paragraf tersebut menggambarkan suasana dan objek secara rinci, termasuk ciri teks deskripsi."
+  },
+  {
+    "id": 17,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah kutipan berikut!\n\"Suatu hari, Alif menemukan seekor burung kecil dengan sayap terluka di halaman rumahnya. Ia membawa burung itu ke kamar dan merawatnya hingga sembuh.\"\nKutipan tersebut termasuk dalam...",
+    "opsi": {
+      "A": "Teks eksposisi",
+      "B": "Teks laporan",
+      "C": "Cerita inspiratif",
+      "D": "Teks prosedur"
+    },
+    "jawaban": "C",
+    "pembahasan": "Cerita yang menunjukkan tindakan baik, seperti menolong hewan, termasuk dalam cerita inspiratif."
+  },
+  {
+    "id": 18,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah cerita berikut!\n\"Di negeri awan, hiduplah seekor naga yang bisa membaca pikiran. Ia menjaga hutan dari niat buruk para pemburu.\"\nCerita ini termasuk jenis...",
+    "opsi": {
+      "A": "Cerita sejarah",
+      "B": "Fabel",
+      "C": "Cerita fantasi",
+      "D": "Cerita inspiratif"
+    },
+    "jawaban": "C",
+    "pembahasan": "Cerita dengan unsur magis atau tidak masuk akal seperti naga pembaca pikiran termasuk cerita fantasi."
+  },
+  {
+    "id": 19,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah teks berikut!\n\"Malam itu, listrik padam. Andi menyalakan lilin dan duduk membaca buku di ruang tengah. Tiba-tiba terdengar suara ketukan pintu.\"\nTeks ini termasuk dalam bagian struktur cerpen yang disebut...",
+    "opsi": {
+      "A": "Orientasi",
+      "B": "Komplikasi",
+      "C": "Resolusi",
+      "D": "Koda"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ketegangan atau konflik mulai muncul dalam bagian komplikasi cerita pendek."
+  },
+  {
+    "id": 20,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah teks berikut!\n\"Kelinci itu sangat cerdik. Ia selalu berhasil mengelabui serigala yang ingin memangsanya.\"\nTeks tersebut termasuk jenis...",
+    "opsi": {
+      "A": "Fabel",
+      "B": "Cerita sejarah",
+      "C": "Teks eksplanasi",
+      "D": "Cerita motivasi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Fabel adalah cerita yang menggunakan hewan sebagai tokoh dan memiliki sifat seperti manusia."
+  },
+  {
+    "id": 21,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah penggalan berikut!\n\"Saat pulang sekolah, Raka melihat seorang kakek kesulitan menyeberang jalan. Ia segera membantunya dengan senyuman.\"\nPerilaku Raka mencerminkan...",
+    "opsi": {
+      "A": "Kepahlawanan",
+      "B": "Keberanian",
+      "C": "Kepedulian",
+      "D": "Kesetiaan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Tindakan membantu orang lain dengan ikhlas merupakan bentuk kepedulian sosial."
+  },
+  {
+    "id": 22,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Perhatikan kutipan berikut!\n\"Dian tidak menyerah meskipun berulang kali gagal dalam lomba melukis. Ia terus berlatih hingga akhirnya meraih juara satu.\"\nNilai yang terkandung dalam kutipan tersebut adalah...",
+    "opsi": {
+      "A": "Kreativitas",
+      "B": "Kerja keras dan pantang menyerah",
+      "C": "Kesabaran dan kejujuran",
+      "D": "Kepedulian sosial"
+    },
+    "jawaban": "B",
+    "pembahasan": "Cerita menekankan pentingnya berlatih terus-menerus dan tidak mudah menyerah."
+  },
+  {
+    "id": 23,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Perhatikan cerita berikut!\n\"Budi sering membuang sampah sembarangan. Suatu hari, saluran air tersumbat dan banjir melanda rumahnya.\"\nAmanat dari cerita tersebut adalah...",
+    "opsi": {
+      "A": "Rajinlah belajar agar sukses",
+      "B": "Jangan berbohong kepada orang tua",
+      "C": "Jagalah kebersihan lingkungan",
+      "D": "Hati-hati saat berbicara"
+    },
+    "jawaban": "C",
+    "pembahasan": "Cerita menunjukkan akibat buruk dari membuang sampah sembarangan."
+  },
+  {
+    "id": 24,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah cerita berikut!\n\"Ari tertawa saat temannya terjatuh. Namun kemudian ia merasa bersalah dan meminta maaf.\"\nSikap Ari menunjukkan...",
+    "opsi": {
+      "A": "Tidak berperasaan",
+      "B": "Kesadaran dan tanggung jawab",
+      "C": "Keberanian",
+      "D": "Kejujuran"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ari menyadari kesalahan dan bertanggung jawab dengan meminta maaf."
+  },
+  {
+    "id": 25,
+    "kategori": "bin",
+    "tingkat": "sedang",
+    "pertanyaan": "Bacalah teks berikut!\n\"Pagi itu, Sita datang ke sekolah lebih awal. Ia membantu guru mempersiapkan alat peraga untuk pelajaran IPA.\"\nTindakan Sita mencerminkan...",
+    "opsi": {
+      "A": "Kedisiplinan dan inisiatif",
+      "B": "Ketegasan dan keberanian",
+      "C": "Kreativitas dan kejujuran",
+      "D": "Kepemimpinan dan tanggung jawab"
+    },
+    "jawaban": "A",
+    "pembahasan": "Datang lebih awal dan membantu tanpa diminta menunjukkan kedisiplinan dan inisiatif."
+  },
+  {
+    "id": 26,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Hasil dari 3 × (5 + 2) − 4 adalah...",
+    "opsi": {
+      "A": "17",
+      "B": "21",
+      "C": "23",
+      "D": "25"
+    },
+    "jawaban": "A",
+    "pembahasan": "Hitung dalam tanda kurung: 5 + 2 = 7, lalu 3 × 7 = 21, kemudian 21 − 4 = 17."
+  },
+  {
+    "id": 27,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Suatu segitiga memiliki panjang sisi-sisinya 6 cm, 8 cm, dan 10 cm. Jenis segitiga tersebut adalah...",
+    "opsi": {
+      "A": "Siku-siku",
+      "B": "Sama kaki",
+      "C": "Sama sisi",
+      "D": "Tumpul"
+    },
+    "jawaban": "A",
+    "pembahasan": "Karena 6² + 8² = 36 + 64 = 100 = 10², maka segitiga tersebut adalah segitiga siku-siku."
+  },
+  {
+    "id": 28,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika x − 5 = 12, maka nilai x adalah...",
+    "opsi": {
+      "A": "7",
+      "B": "12",
+      "C": "17",
+      "D": "25"
+    },
+    "jawaban": "C",
+    "pembahasan": "Tambahkan 5 pada kedua ruas: x = 12 + 5 = 17."
+  },
+  {
+    "id": 29,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Ani memiliki 3 kali jumlah uang Budi. Jika jumlah uang mereka berdua Rp80.000, maka berapa uang Budi?",
+    "opsi": {
+      "A": "Rp20.000",
+      "B": "Rp25.000",
+      "C": "Rp30.000",
+      "D": "Rp40.000"
+    },
+    "jawaban": "A",
+    "pembahasan": "Misalkan uang Budi = x, maka uang Ani = 3x, sehingga x + 3x = 80.000 → 4x = 80.000 → x = 20.000."
+  },
+  {
+    "id": 30,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Hasil dari 2³ + 4² adalah...",
+    "opsi": {
+      "A": "12",
+      "B": "20",
+      "C": "24",
+      "D": "28"
+    },
+    "jawaban": "C",
+    "pembahasan": "2³ = 8 dan 4² = 16, maka 8 + 16 = 24."
+  },
+  {
+    "id": 31,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Volume balok dengan panjang 8 cm, lebar 5 cm, dan tinggi 3 cm adalah...",
+    "opsi": {
+      "A": "120 cm³",
+      "B": "160 cm³",
+      "C": "100 cm³",
+      "D": "130 cm³"
+    },
+    "jawaban": "A",
+    "pembahasan": "Volume balok = p × l × t = 8 × 5 × 3 = 120 cm³."
+  },
+  {
+    "id": 32,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Sebuah mobil menempuh jarak 240 km dalam waktu 4 jam. Jika kecepatannya meningkat 20 km/jam, berapa waktu tempuh untuk jarak yang sama?",
+    "opsi": {
+      "A": "3 jam",
+      "B": "3,5 jam",
+      "C": "4 jam",
+      "D": "4,5 jam"
+    },
+    "jawaban": "A",
+    "pembahasan": "Kecepatan awal = 240/4 = 60 km/jam. Kecepatan baru = 60 + 20 = 80 km/jam → waktu = 240/80 = 3 jam."
+  },
+  {
+    "id": 33,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika suatu sudut adalah 70°, maka sudut pelurusnya adalah...",
+    "opsi": {
+      "A": "110°",
+      "B": "100°",
+      "C": "90°",
+      "D": "80°"
+    },
+    "jawaban": "A",
+    "pembahasan": "Sudut pelurus = 180° − 70° = 110°."
+  },
+  {
+    "id": 34,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Rata-rata dari 6, 8, 10, dan 12 adalah...",
+    "opsi": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "jawaban": "B",
+    "pembahasan": "Jumlah = 6 + 8 + 10 + 12 = 36. Rata-rata = 36/4 = 9."
+  },
+  {
+    "id": 35,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika 3x + 2 = 17, maka nilai x adalah...",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kurangkan 2 → 3x = 15, lalu bagi 3 → x = 5."
+  },
+  {
+    "id": 36,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika satu koin dilempar sekali, peluang munculnya gambar adalah...",
+    "opsi": {
+      "A": "1",
+      "B": "0",
+      "C": "1/2",
+      "D": "1/4"
+    },
+    "jawaban": "C",
+    "pembahasan": "Koin memiliki dua sisi: gambar dan angka. Peluang muncul gambar = 1 dari 2 = 1/2."
+  },
+  {
+    "id": 37,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Dalam satu kotak terdapat 3 bola merah, 2 bola biru, dan 5 bola kuning. Peluang mengambil bola biru secara acak adalah...",
+    "opsi": {
+      "A": "1/2",
+      "B": "1/3",
+      "C": "1/5",
+      "D": "1/10"
+    },
+    "jawaban": "C",
+    "pembahasan": "Jumlah bola = 3 + 2 + 5 = 10, bola biru = 2 → peluang = 2/10 = 1/5."
+  },
+  {
+    "id": 38,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Nilai ulangan 6 siswa adalah 70, 80, 90, 80, 70, dan 90. Modus dari data tersebut adalah...",
+    "opsi": {
+      "A": "70",
+      "B": "80",
+      "C": "90",
+      "D": "70, 80, 90"
+    },
+    "jawaban": "D",
+    "pembahasan": "Semua nilai muncul dua kali, jadi data memiliki tiga modus: 70, 80, dan 90."
+  },
+  {
+    "id": 39,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Median dari data berikut: 65, 70, 72, 75, 78 adalah...",
+    "opsi": {
+      "A": "70",
+      "B": "72",
+      "C": "73",
+      "D": "75"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data berjumlah ganjil, median = nilai tengah = 72."
+  },
+  {
+    "id": 40,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Dalam survei, 15 siswa menyukai Matematika, 10 menyukai IPA, dan 5 menyukai keduanya. Banyak siswa yang hanya menyukai salah satu dari dua pelajaran itu adalah...",
+    "opsi": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30"
+    },
+    "jawaban": "A",
+    "pembahasan": "Matematika saja = 15−5 = 10, IPA saja = 10−5 = 5 → total = 10 + 5 = 15."
+  },
+  {
+    "id": 41,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika sebuah persegi panjang memiliki luas 72 cm² dan panjangnya 12 cm, maka lebarnya adalah...",
+    "opsi": {
+      "A": "5 cm",
+      "B": "6 cm",
+      "C": "7 cm",
+      "D": "8 cm"
+    },
+    "jawaban": "B",
+    "pembahasan": "Luas = panjang × lebar → 72 = 12 × lebar → lebar = 72 ÷ 12 = 6 cm."
+  },
+  {
+    "id": 42,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Sebuah tangki berisi 120 liter air. Jika air digunakan sebanyak 15 liter setiap hari, maka air akan habis dalam...",
+    "opsi": {
+      "A": "6 hari",
+      "B": "7 hari",
+      "C": "8 hari",
+      "D": "10 hari"
+    },
+    "jawaban": "C",
+    "pembahasan": "120 ÷ 15 = 8 hari."
+  },
+  {
+    "id": 43,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Jumlah dua bilangan adalah 48. Selisih kedua bilangan tersebut adalah 6. Bilangan yang lebih kecil adalah...",
+    "opsi": {
+      "A": "21",
+      "B": "22",
+      "C": "24",
+      "D": "26"
+    },
+    "jawaban": "A",
+    "pembahasan": "Misalkan x dan y, x + y = 48 dan x − y = 6. Jumlahkan: 2x = 54 → x = 27. Maka y = 21."
+  },
+  {
+    "id": 44,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika a = 3 dan b = 4, maka nilai dari a² + b² adalah...",
+    "opsi": {
+      "A": "12",
+      "B": "25",
+      "C": "7",
+      "D": "24"
+    },
+    "jawaban": "B",
+    "pembahasan": "a² + b² = 3² + 4² = 9 + 16 = 25."
+  },
+  {
+    "id": 45,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Panjang diagonal sebuah persegi adalah 10√2 cm. Maka panjang sisi persegi adalah...",
+    "opsi": {
+      "A": "5 cm",
+      "B": "10 cm",
+      "C": "5√2 cm",
+      "D": "10√2 cm"
+    },
+    "jawaban": "B",
+    "pembahasan": "Diagonal = s√2 → 10√2 = s√2 → s = 10 cm."
+  },
+  {
+    "id": 46,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Sebuah bak mandi berbentuk balok dengan ukuran panjang 120 cm, lebar 80 cm, dan tinggi 60 cm. Berapa liter air yang dapat ditampung penuh bak tersebut? (1.000 cm³ = 1 L)",
+    "opsi": {
+      "A": "576 liter",
+      "B": "460 liter",
+      "C": "600 liter",
+      "D": "720 liter"
+    },
+    "jawaban": "A",
+    "pembahasan": "Volume = 120 × 80 × 60 = 576.000 cm³ = 576 liter."
+  },
+  {
+    "id": 47,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Peluang muncul angka genap saat melempar dadu sekali adalah...",
+    "opsi": {
+      "A": "1/6",
+      "B": "2/6",
+      "C": "3/6",
+      "D": "4/6"
+    },
+    "jawaban": "C",
+    "pembahasan": "Angka genap = 2, 4, 6 → 3 dari 6 sisi → peluang = 3/6."
+  },
+  {
+    "id": 48,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Sebuah lingkaran memiliki keliling 44 cm. Jika π = 22/7, maka diameter lingkaran tersebut adalah...",
+    "opsi": {
+      "A": "14 cm",
+      "B": "28 cm",
+      "C": "21 cm",
+      "D": "7 cm"
+    },
+    "jawaban": "A",
+    "pembahasan": "K = π × d → 44 = 22/7 × d → d = 44 × 7 / 22 = 14 cm."
+  },
+  {
+    "id": 49,
+    "kategori": "mtk",
+    "tingkat": "hot",
+    "pertanyaan": "Nilai ulangan matematika 5 siswa adalah: 70, 80, 90, 100, dan x. Jika rata-rata mereka adalah 85, maka nilai x adalah...",
+    "opsi": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "95"
+    },
+    "jawaban": "B",
+    "pembahasan": "Jumlah = 85 × 5 = 425 → 70 + 80 + 90 + 100 = 340 → x = 425 − 340 = 85."
+  },
+  {
+    "id": 50,
+    "kategori": "mtk",
+    "tingkat": "sedang",
+    "pertanyaan": "Jika luas permukaan kubus adalah 216 cm², maka panjang rusuknya adalah...",
+    "opsi": {
+      "A": "6 cm",
+      "B": "9 cm",
+      "C": "12 cm",
+      "D": "18 cm"
+    },
+    "jawaban": "A",
+    "pembahasan": "Luas permukaan = 6 × s² → 216 = 6 × s² → s² = 36 → s = 6 cm."
+  },
+  {
+    "id": 51,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Proses fotosintesis pada tumbuhan menghasilkan...",
+    "opsi": {
+      "A": "Karbon dioksida dan air",
+      "B": "Oksigen dan glukosa",
+      "C": "Air dan nitrogen",
+      "D": "Oksigen dan protein"
+    },
+    "jawaban": "B",
+    "pembahasan": "Fotosintesis menghasilkan glukosa dan oksigen melalui reaksi CO₂ + H₂O + cahaya → C₆H₁₂O₆ + O₂."
+  },
+  {
+    "id": 52,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Zat yang dapat menghantarkan listrik dengan baik disebut...",
+    "opsi": {
+      "A": "Isolator",
+      "B": "Konduktor",
+      "C": "Radiasi",
+      "D": "Pendingin"
+    },
+    "jawaban": "B",
+    "pembahasan": "Konduktor seperti logam dapat menghantarkan listrik."
+  },
+  {
+    "id": 53,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Berikut ini yang merupakan perubahan kimia adalah...",
+    "opsi": {
+      "A": "Es mencair",
+      "B": "Air menguap",
+      "C": "Kertas dibakar",
+      "D": "Garam larut"
+    },
+    "jawaban": "C",
+    "pembahasan": "Membakar kertas mengubahnya menjadi zat baru seperti karbon dan gas sisa pembakaran."
+  },
+  {
+    "id": 54,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Organ ekskresi manusia yang berfungsi menyaring darah adalah...",
+    "opsi": {
+      "A": "Paru-paru",
+      "B": "Jantung",
+      "C": "Ginjal",
+      "D": "Hati"
+    },
+    "jawaban": "C",
+    "pembahasan": "Ginjal menyaring darah untuk membuang limbah metabolisme dalam bentuk urin."
+  },
+  {
+    "id": 55,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Bunyi tidak dapat merambat melalui...",
+    "opsi": {
+      "A": "Air",
+      "B": "Besi",
+      "C": "Udara",
+      "D": "Ruang hampa"
+    },
+    "jawaban": "D",
+    "pembahasan": "Bunyi adalah gelombang mekanik yang memerlukan medium, sehingga tidak dapat merambat di ruang hampa."
+  },
+  {
+    "id": 56,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Alat untuk mengukur suhu adalah...",
+    "opsi": {
+      "A": "Barometer",
+      "B": "Hygrometer",
+      "C": "Termometer",
+      "D": "Mikroskop"
+    },
+    "jawaban": "C",
+    "pembahasan": "Termometer digunakan untuk mengukur suhu."
+  },
+  {
+    "id": 57,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Contoh zat campuran adalah...",
+    "opsi": {
+      "A": "Air murni",
+      "B": "Gula",
+      "C": "Udara",
+      "D": "Oksigen"
+    },
+    "jawaban": "C",
+    "pembahasan": "Udara mengandung banyak gas, termasuk nitrogen, oksigen, dan lainnya."
+  },
+  {
+    "id": 58,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Sumber energi utama di bumi adalah...",
+    "opsi": {
+      "A": "Angin",
+      "B": "Matahari",
+      "C": "Listrik",
+      "D": "Bensin"
+    },
+    "jawaban": "B",
+    "pembahasan": "Matahari adalah sumber energi utama bagi kehidupan di Bumi."
+  },
+  {
+    "id": 59,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Perpindahan panas tanpa zat perantara terjadi melalui...",
+    "opsi": {
+      "A": "Konduksi",
+      "B": "Konveksi",
+      "C": "Radiasi",
+      "D": "Refleksi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Radiasi tidak memerlukan medium, seperti sinar matahari."
+  },
+  {
+    "id": 60,
+    "kategori": "ipa",
+    "tingkat": "mudah",
+    "pertanyaan": "Fotosintesis terjadi pada bagian...",
+    "opsi": {
+      "A": "Akar",
+      "B": "Batang",
+      "C": "Daun",
+      "D": "Bunga"
+    },
+    "jawaban": "C",
+    "pembahasan": "Daun mengandung klorofil untuk fotosintesis."
+  },
+  {
+    "id": 61,
+    "kategori": "ipa",
+    "tingkat": "sedang",
+    "pertanyaan": "Sendi yang memungkinkan gerakan ke segala arah seperti pada bahu disebut?",
+    "opsi": {
+      "A": "Sendi engsel",
+      "B": "Sendi peluru",
+      "C": "Sendi putar",
+      "D": "Sendi geser"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sendi peluru memungkinkan gerakan ke segala arah, seperti pada sendi bahu dan pinggul."
+  },
+  {
+    "id": 62,
+    "kategori": "ipa",
+    "tingkat": "sedang",
+    "pertanyaan": "Apa yang dimaksud dengan hukum Newton ke-1?",
+    "opsi": {
+      "A": "Benda akan terus diam atau bergerak lurus beraturan jika tidak ada gaya yang bekerja padanya.",
+      "B": "Gaya sama dengan massa kali percepatan.",
+      "C": "Setiap aksi memiliki reaksi yang sama dan berlawanan.",
+      "D": "Gaya gesek sebanding dengan kecepatan."
+    },
+    "jawaban": "A",
+    "pembahasan": "Hukum Newton ke-1 menyatakan bahwa benda cenderung mempertahankan keadaannya kecuali ada gaya luar yang mempengaruhi."
+  },
+  {
+    "id": 63,
+    "kategori": "ipa",
+    "tingkat": "sedang",
+    "pertanyaan": "Bagian sel yang mengandung informasi genetik adalah?",
+    "opsi": {
+      "A": "Sitoplasma",
+      "B": "Kloroplas",
+      "C": "Nukleus",
+      "D": "Mitokondria"
+    },
+    "jawaban": "C",
+    "pembahasan": "Nukleus mengandung DNA yang menyimpan informasi genetik sel."
+  },
+  {
+    "id": 64,
+    "kategori": "ipa",
+    "tingkat": "sedang",
+    "pertanyaan": "Apa satuan hambatan listrik dalam sistem internasional (SI)?",
+    "opsi": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt"
+    },
+    "jawaban": "C",
+    "pembahasan": "Satuan hambatan listrik dalam SI adalah Ohm, dilambangkan dengan simbol Ω."
+  },
+  {
+    "id": 65,
+    "kategori": "ipa",
+    "tingkat": "sedang",
+    "pertanyaan": "Contoh bioteknologi konvensional dalam bidang pangan adalah?",
+    "opsi": {
+      "A": "Pembuatan roti",
+      "B": "Produksi vaksin",
+      "C": "Rekayasa genetika",
+      "D": "Pembuatan baterai bio"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bioteknologi konvensional menggunakan mikroorganisme seperti ragi dalam pembuatan roti."
+  },
+  {
+    "id": 66,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Mengapa udara disebut campuran dan bukan senyawa?",
+    "opsi": {
+      "A": "Karena terdiri dari satu jenis unsur",
+      "B": "Karena semua komponennya adalah logam",
+      "C": "Karena tidak bisa dipisahkan secara fisika",
+      "D": "Karena komposisinya tidak tetap dan dapat dipisahkan secara fisika"
+    },
+    "jawaban": "D",
+    "pembahasan": "Udara terdiri dari berbagai gas seperti nitrogen dan oksigen yang dapat dipisahkan dan komposisinya tidak tetap."
+  },
+  {
+    "id": 67,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Ketika air mendidih dan menguap, energi kalor digunakan untuk...",
+    "opsi": {
+      "A": "Menaikkan massa air",
+      "B": "Menurunkan suhu air",
+      "C": "Memutus ikatan antar molekul air",
+      "D": "Mengubah air menjadi logam"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kalor digunakan untuk memutus ikatan antar molekul air agar dapat berubah dari cair ke gas (uap)."
+  },
+  {
+    "id": 68,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Mengapa pesawat sederhana tidak mengurangi usaha yang dilakukan?",
+    "opsi": {
+      "A": "Karena pesawat sederhana hanya mengubah arah gaya",
+      "B": "Karena pesawat sederhana meningkatkan energi potensial",
+      "C": "Karena hukum kekekalan energi berlaku",
+      "D": "Karena semua gaya dalam sistem tertutup adalah nol"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pesawat sederhana tidak mengurangi jumlah usaha, tetapi mempermudah usaha melalui pengubahan arah atau besar gaya."
+  },
+  {
+    "id": 69,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Apa akibat dari kerusakan sistem peredaran darah vena?",
+    "opsi": {
+      "A": "Kekurangan oksigen dalam jaringan",
+      "B": "Penumpukan karbon dioksida dalam jantung",
+      "C": "Gangguan pengangkutan zat makanan",
+      "D": "Penumpukan darah di pembuluh balik dan edema"
+    },
+    "jawaban": "D",
+    "pembahasan": "Vena mengembalikan darah ke jantung. Kerusakan sistem ini bisa menyebabkan darah menumpuk dan pembengkakan (edema)."
+  },
+  {
+    "id": 70,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Mutasi genetik dapat menguntungkan apabila...",
+    "opsi": {
+      "A": "Terjadi pada organ dalam",
+      "B": "Menyebabkan kanker",
+      "C": "Memberikan sifat baru yang adaptif",
+      "D": "Menghambat metabolisme sel"
+    },
+    "jawaban": "C",
+    "pembahasan": "Mutasi bisa menguntungkan jika menghasilkan sifat baru yang lebih cocok dengan lingkungan."
+  },
+  {
+    "id": 71,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Jika dua muatan listrik didekatkan, gaya tolak-menolak terjadi karena...",
+    "opsi": {
+      "A": "Medan magnetik saling tarik",
+      "B": "Medan listrik berbeda arah",
+      "C": "Muatan sejenis saling tolak",
+      "D": "Hambatan listrik sangat besar"
+    },
+    "jawaban": "C",
+    "pembahasan": "Menurut hukum Coulomb, muatan sejenis saling tolak dan muatan berbeda saling tarik."
+  },
+  {
+    "id": 72,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Apa yang terjadi jika sistem pernapasan mengalami gangguan pada alveolus?",
+    "opsi": {
+      "A": "Jumlah sel darah merah meningkat",
+      "B": "Pertukaran gas terganggu",
+      "C": "Sistem ekskresi terganggu",
+      "D": "Peredaran darah terganggu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Alveolus adalah tempat utama pertukaran oksigen dan karbon dioksida dalam paru-paru."
+  },
+  {
+    "id": 73,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Mengapa termometer alkohol digunakan untuk mengukur suhu rendah?",
+    "opsi": {
+      "A": "Karena alkohol lebih mahal",
+      "B": "Karena alkohol mudah menguap",
+      "C": "Karena alkohol tidak beku pada suhu rendah",
+      "D": "Karena alkohol bersifat magnetis"
+    },
+    "jawaban": "C",
+    "pembahasan": "Alkohol memiliki titik beku rendah, sehingga cocok untuk mengukur suhu rendah."
+  },
+  {
+    "id": 74,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Mengapa zat adiktif seperti nikotin berbahaya bagi tubuh?",
+    "opsi": {
+      "A": "Mempercepat peredaran darah",
+      "B": "Menstimulasi otak untuk bekerja lebih baik",
+      "C": "Menyebabkan ketergantungan dan kerusakan sistem saraf",
+      "D": "Meningkatkan kekebalan tubuh secara berlebihan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Nikotin bersifat adiktif dan dapat merusak sistem saraf serta menyebabkan ketergantungan."
+  },
+  {
+    "id": 75,
+    "kategori": "ipa",
+    "tingkat": "sulit",
+    "pertanyaan": "Apa perbedaan utama antara bioteknologi konvensional dan modern?",
+    "opsi": {
+      "A": "Modern menggunakan mikroorganisme, konvensional tidak",
+      "B": "Modern menggunakan teknik rekayasa genetik, konvensional menggunakan fermentasi alami",
+      "C": "Konvensional lebih berbahaya",
+      "D": "Konvensional hanya digunakan di industri besar"
+    },
+    "jawaban": "B",
+    "pembahasan": "Bioteknologi modern melibatkan rekayasa genetik, sedangkan konvensional menggunakan proses alami seperti fermentasi."
+  }
+]

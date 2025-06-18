@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "mapel": "Matematika",
+      "soal": "Sebuah segitiga memiliki panjang sisi 5 cm, 12 cm, dan 13 cm. Tentukan jenis segitiga tersebut.",
+      "pilihan": ["Siku-siku", "Sama kaki", "Sama sisi", "Sembarang"],
+      "jawaban": "Siku-siku",
+      "pembahasan": "Karena 5² + 12² = 13², maka segitiga tersebut adalah segitiga siku-siku."
+    },
+    {
+      "id": 2,
+      "mapel": "Bahasa Indonesia",
+      "soal": "Antonim dari kata 'optimis' adalah?",
+      "pilihan": ["Pesimis", "Semangat", "Yakin", "Tegas"],
+      "jawaban": "Pesimis",
+      "pembahasan": "Kata optimis berlawanan makna dengan pesimis."
+    }
+  ]
+  

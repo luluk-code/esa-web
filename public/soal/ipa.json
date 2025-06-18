@@ -1,0 +1,752 @@
+[
+  {
+    "id": 100,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #1",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #1 untuk mapel ipa."
+  },
+  {
+    "id": 101,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #2",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #2 untuk mapel ipa."
+  },
+  {
+    "id": 102,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #3",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #3 untuk mapel ipa."
+  },
+  {
+    "id": 103,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #4",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #4 untuk mapel ipa."
+  },
+  {
+    "id": 104,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #5",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #5 untuk mapel ipa."
+  },
+  {
+    "id": 105,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #6",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #6 untuk mapel ipa."
+  },
+  {
+    "id": 106,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #7",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #7 untuk mapel ipa."
+  },
+  {
+    "id": 107,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #8",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #8 untuk mapel ipa."
+  },
+  {
+    "id": 108,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #9",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #9 untuk mapel ipa."
+  },
+  {
+    "id": 109,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #10",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #10 untuk mapel ipa."
+  },
+  {
+    "id": 110,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #11",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #11 untuk mapel ipa."
+  },
+  {
+    "id": 111,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #12",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #12 untuk mapel ipa."
+  },
+  {
+    "id": 112,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #13",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #13 untuk mapel ipa."
+  },
+  {
+    "id": 113,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #14",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #14 untuk mapel ipa."
+  },
+  {
+    "id": 114,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #15",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #15 untuk mapel ipa."
+  },
+  {
+    "id": 115,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #16",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #16 untuk mapel ipa."
+  },
+  {
+    "id": 116,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #17",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #17 untuk mapel ipa."
+  },
+  {
+    "id": 117,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #18",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #18 untuk mapel ipa."
+  },
+  {
+    "id": 118,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #19",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #19 untuk mapel ipa."
+  },
+  {
+    "id": 119,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #20",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #20 untuk mapel ipa."
+  },
+  {
+    "id": 120,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #21",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #21 untuk mapel ipa."
+  },
+  {
+    "id": 121,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #22",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #22 untuk mapel ipa."
+  },
+  {
+    "id": 122,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #23",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #23 untuk mapel ipa."
+  },
+  {
+    "id": 123,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #24",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #24 untuk mapel ipa."
+  },
+  {
+    "id": 124,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #25",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #25 untuk mapel ipa."
+  },
+  {
+    "id": 125,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #26",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #26 untuk mapel ipa."
+  },
+  {
+    "id": 126,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #27",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #27 untuk mapel ipa."
+  },
+  {
+    "id": 127,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #28",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #28 untuk mapel ipa."
+  },
+  {
+    "id": 128,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #29",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #29 untuk mapel ipa."
+  },
+  {
+    "id": 129,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #30",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #30 untuk mapel ipa."
+  },
+  {
+    "id": 130,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #31",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #31 untuk mapel ipa."
+  },
+  {
+    "id": 131,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #32",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #32 untuk mapel ipa."
+  },
+  {
+    "id": 132,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #33",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #33 untuk mapel ipa."
+  },
+  {
+    "id": 133,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #34",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #34 untuk mapel ipa."
+  },
+  {
+    "id": 134,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #35",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #35 untuk mapel ipa."
+  },
+  {
+    "id": 135,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #36",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #36 untuk mapel ipa."
+  },
+  {
+    "id": 136,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #37",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #37 untuk mapel ipa."
+  },
+  {
+    "id": 137,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #38",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #38 untuk mapel ipa."
+  },
+  {
+    "id": 138,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #39",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #39 untuk mapel ipa."
+  },
+  {
+    "id": 139,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #40",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #40 untuk mapel ipa."
+  },
+  {
+    "id": 140,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #41",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #41 untuk mapel ipa."
+  },
+  {
+    "id": 141,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #42",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #42 untuk mapel ipa."
+  },
+  {
+    "id": 142,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #43",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #43 untuk mapel ipa."
+  },
+  {
+    "id": 143,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #44",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #44 untuk mapel ipa."
+  },
+  {
+    "id": 144,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #45",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #45 untuk mapel ipa."
+  },
+  {
+    "id": 145,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #46",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #46 untuk mapel ipa."
+  },
+  {
+    "id": 146,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #47",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #47 untuk mapel ipa."
+  },
+  {
+    "id": 147,
+    "mapel": "ipa",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal IPA #48",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #48 untuk mapel ipa."
+  },
+  {
+    "id": 148,
+    "mapel": "ipa",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal IPA #49",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #49 untuk mapel ipa."
+  },
+  {
+    "id": 149,
+    "mapel": "ipa",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal IPA #50",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #50 untuk mapel ipa."
+  }
+]

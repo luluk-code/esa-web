@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #1",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #1 untuk mapel matematika."
+  },
+  {
+    "id": 2,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #2",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #2 untuk mapel matematika."
+  },
+  {
+    "id": 3,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #3",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #3 untuk mapel matematika."
+  },
+  {
+    "id": 4,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #4",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #4 untuk mapel matematika."
+  },
+  {
+    "id": 5,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #5",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #5 untuk mapel matematika."
+  },
+  {
+    "id": 6,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #6",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #6 untuk mapel matematika."
+  },
+  {
+    "id": 7,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #7",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #7 untuk mapel matematika."
+  },
+  {
+    "id": 8,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #8",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #8 untuk mapel matematika."
+  },
+  {
+    "id": 9,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #9",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #9 untuk mapel matematika."
+  },
+  {
+    "id": 10,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #10",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #10 untuk mapel matematika."
+  },
+  {
+    "id": 11,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #11",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #11 untuk mapel matematika."
+  },
+  {
+    "id": 12,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #12",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #12 untuk mapel matematika."
+  },
+  {
+    "id": 13,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #13",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #13 untuk mapel matematika."
+  },
+  {
+    "id": 14,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #14",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #14 untuk mapel matematika."
+  },
+  {
+    "id": 15,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #15",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #15 untuk mapel matematika."
+  },
+  {
+    "id": 16,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #16",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #16 untuk mapel matematika."
+  },
+  {
+    "id": 17,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #17",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #17 untuk mapel matematika."
+  },
+  {
+    "id": 18,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #18",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #18 untuk mapel matematika."
+  },
+  {
+    "id": 19,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #19",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #19 untuk mapel matematika."
+  },
+  {
+    "id": 20,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #20",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #20 untuk mapel matematika."
+  },
+  {
+    "id": 21,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #21",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #21 untuk mapel matematika."
+  },
+  {
+    "id": 22,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #22",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #22 untuk mapel matematika."
+  },
+  {
+    "id": 23,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #23",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #23 untuk mapel matematika."
+  },
+  {
+    "id": 24,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #24",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #24 untuk mapel matematika."
+  },
+  {
+    "id": 25,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #25",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #25 untuk mapel matematika."
+  },
+  {
+    "id": 26,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #26",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #26 untuk mapel matematika."
+  },
+  {
+    "id": 27,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #27",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #27 untuk mapel matematika."
+  },
+  {
+    "id": 28,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #28",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #28 untuk mapel matematika."
+  },
+  {
+    "id": 29,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #29",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #29 untuk mapel matematika."
+  },
+  {
+    "id": 30,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #30",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #30 untuk mapel matematika."
+  },
+  {
+    "id": 31,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #31",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #31 untuk mapel matematika."
+  },
+  {
+    "id": 32,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #32",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #32 untuk mapel matematika."
+  },
+  {
+    "id": 33,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #33",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #33 untuk mapel matematika."
+  },
+  {
+    "id": 34,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #34",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #34 untuk mapel matematika."
+  },
+  {
+    "id": 35,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #35",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #35 untuk mapel matematika."
+  },
+  {
+    "id": 36,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #36",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #36 untuk mapel matematika."
+  },
+  {
+    "id": 37,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #37",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #37 untuk mapel matematika."
+  },
+  {
+    "id": 38,
+    "mapel": "matematika",
+    "kelas": 8,
+    "tingkat": "sedang",
+    "pertanyaan": "Soal Matematika #38",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #38 untuk mapel matematika."
+  },
+  {
+    "id": 39,
+    "mapel": "matematika",
+    "kelas": 9,
+    "tingkat": "sulit",
+    "pertanyaan": "Soal Matematika #39",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #39 untuk mapel matematika."
+  },
+  {
+    "id": 40,
+    "mapel": "matematika",
+    "kelas": 7,
+    "tingkat": "mudah",
+    "pertanyaan": "Soal Matematika #40",
+    "opsi": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "jawaban": "A",
+    "penjelasan": "Penjelasan soal #40 untuk mapel matematika."
+  }
+]
